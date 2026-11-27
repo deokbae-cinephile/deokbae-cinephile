@@ -1,4 +1,8 @@
-> d
+## 준수 기준
+- **HTML**: [HTML Living Standard](https://whatwg.org)
+- **CSS**: [CSS Snapshot 2026](https://w3.org)
+- **JavaScript**: [ECMA-262](https://ecma-international.org)
+- **웹 접근성**: [한국형 웹 콘텐츠 접근성 지침(KWCAG) 2.2](https://github.io) 
 
 ## 기술 스택
 
