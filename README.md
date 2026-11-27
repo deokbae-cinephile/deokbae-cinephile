@@ -19,5 +19,5 @@
 | 1 | [NGMG-web](https://github.com/deokbae-cinephile/NGMG-web) | 두 사람이 함께 쓰는 낚시·맛집 지도와 출조 일정·기록 서비스 | React 19, TypeScript, Vite, Tailwind CSS, TanStack Query, React Hook Form | [보기](https://ngmg.kr/) |
 | 2 | [FloppyDisk](https://github.com/deokbae-cinephile/FloppyDisk) | 개발 등 다양한 공부 내용을 기록하고 정리하는 자료 블로그 | Next.js 16, React 19, TypeScript, Tailwind CSS, remark, rehype | [보기](https://deokbae.blog/) |
 | 3 | [fish-match](https://github.com/deokbae-cinephile/fish-match) | 어항에 함께 키울 수 있는 물고기를 판별하는 합사 시뮬레이터 | Next.js 16, React 19, TypeScript, Tailwind CSS, MobX |  |
-| 4 | [odd-veggie](https://github.com/deokbae-cinephile/odd-veggie) | 못난이 작물과 잉여 작물을 구독·구매하는 쇼핑 서비스 | Next.js 16, React 19, TypeScript, Tailwind CSS |  |
+| 4 | [odd-veggie](https://github.com/deokbae-cinephile/odd-veggie) | 못난이 작물과 잉여 작물을 구독·구매하는 쇼핑 서비스 | Next.js 16, React 19, TypeScript, Sass(SCSS) |  |
 | 5 | [5mdd](https://github.com/deokbae-cinephile/5mdd) | 오늘 핵심 뉴스를 읽고 AI가 던지는 질문을 답하며 논리력과 시사 상식을 키우는 모바일 중심 서비스 | Next.js 16, React 19, TypeScript, vanilla-extract, jotai, PWA |  |
