@@ -1,4 +1,4 @@
-## 준수 기준
+## 개발 기준
 - **HTML**: [HTML Living Standard](https://whatwg.org)
 - **CSS**: [CSS Snapshot 2026](https://w3.org)
 - **JavaScript**: [ECMA-262](https://ecma-international.org)
