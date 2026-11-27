@@ -5,16 +5,16 @@
 - **웹 접근성**: [한국형 웹 콘텐츠 접근성 지침(KWCAG) 2.2](https://github.io) 
 
 ## 기술 스택
-<img src="https://simpleicons.org/icons/TypeScript.svg" width="24" height="24" alt="TypeScript" /> TypeScript
-<img src="https://simpleicons.org/icons/React.svg" width="24" height="24" alt="React" /> React
-<img src="https://simpleicons.org/icons/Vite.svg" width="24" height="24" alt="Vite" /> Vite
-<img src="https://simpleicons.org/icons/TailwindCSS.svg" width="24" height="24" alt="Tailwind CSS" /> Tailwind CSS
-<img src="https://simpleicons.org/icons/ReactQuery.svg" width="24" height="24" alt="TanStack Query" /> TanStack Query
-<img src="https://simpleicons.org/icons/Vitest.svg" width="24" height="24" alt="Vitest" /> Vitest
-<img src="https://simpleicons.org/icons/ESLint.svg" width="24" height="24" alt="ESLint" /> ESLint
-<img src="https://simpleicons.org/icons/Pnpm.svg" width="24" height="24" alt="pnpm" /> pnpm
-<img src="https://simpleicons.org/icons/GitHubActions.svg" width="24" height="24" alt="GitHub Actions" /> GitHub Actions
-<img src="https://simpleicons.org/icons/GitHubPages.svg" width="24" height="24" alt="GitHub Pages" /> GitHub Pages
+<img src="https://cdn.simpleicons.org/typescript" width="24" height="24" />
+<img src="https://cdn.simpleicons.org/react" width="24" height="24" />
+<img src="https://cdn.simpleicons.org/vite" width="24" height="24" />
+<img src="https://cdn.simpleicons.org/tailwindcss" width="24" height="24" />
+<img src="https://cdn.simpleicons.org/reactquery" width="24" height="24" />
+<img src="https://cdn.simpleicons.org/vitest" width="24" height="24" />
+<img src="https://cdn.simpleicons.org/eslint" width="24" height="24" />
+<img src="https://cdn.simpleicons.org/pnpm" width="24" height="24" />
+<img src="https://cdn.simpleicons.org/githubactions" width="24" height="24" />
+<img src="https://cdn.simpleicons.org/githubpages" width="24" height="24" />
 
 ## 프로젝트
 | 번호 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프&#8288;로&#8288;젝&#8288;트&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 내용 | 기술 | 확인 |
