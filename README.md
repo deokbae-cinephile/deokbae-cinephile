@@ -19,4 +19,4 @@
 | 1 | [NGMG-web](https://github.com/deokbae-cinephile/NGMG-web) | 두 사람이 함께 쓰는 낚시·맛집 지도와 출조 일정·기록 서비스 | React 19, Vite, TypeScript, Tailwind CSS, TanStack Query | [보기](https://ngmg.kr/) |
 | 2 | [FloppyDisk](https://github.com/deokbae-cinephile/FloppyDisk) | 개발 등 다양한 공부 내용을 기록하고 정리하는 자료 블로그 | Next.js 16, React 19, TypeScript, Tailwind CSS | [보기](https://deokbae.blog/) |
 | 3 | [5mdd](https://github.com/deokbae-cinephile/5mdd) | 오늘 핵심 뉴스를 읽고 AI가 던지는 질문을 답하며 논리력과 시사 상식을 키우는 모바일 중심 서비스 | Next.js 16, React 19, TypeScript, vanilla-extract, PWA |  |
-| 4 | [?](?) | ? | Vue 3, TypeScript, Sass(SCSS) |  |
+| 4 | [?](?) | 신선한 수산물과 농작물 쇼핑 서비스 | Vue 3, TypeScript, Sass(SCSS) |  |
