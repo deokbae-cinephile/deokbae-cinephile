@@ -5,16 +5,7 @@
 - **웹 접근성**: [한국형 웹 콘텐츠 접근성 지침(KWCAG) 2.2](https://github.io) 
 
 ## 기술 스택
-<img src="https://cdn.simpleicons.org/typescript" width="24" height="24" />
-<img src="https://cdn.simpleicons.org/react" width="24" height="24" />
-<img src="https://cdn.simpleicons.org/vite" width="24" height="24" />
-<img src="https://cdn.simpleicons.org/tailwindcss" width="24" height="24" />
-<img src="https://cdn.simpleicons.org/reactquery" width="24" height="24" />
-<img src="https://cdn.simpleicons.org/vitest" width="24" height="24" />
-<img src="https://cdn.simpleicons.org/eslint" width="24" height="24" />
-<img src="https://cdn.simpleicons.org/pnpm" width="24" height="24" />
-<img src="https://cdn.simpleicons.org/githubactions" width="24" height="24" />
-<img src="https://cdn.simpleicons.org/githubpages" width="24" height="24" />
+<img src="https://cdn.simpleicons.org/typescript?color=white" width="40" height="40" /><img src="https://cdn.simpleicons.org/react?color=white" width="40" height="40" /><img src="https://cdn.simpleicons.org/vite?color=white" width="40" height="40" /><img src="https://cdn.simpleicons.org/tailwindcss?color=white" width="40" height="40" /><img src="https://cdn.simpleicons.org/reactquery?color=white" width="40" height="40" /><img src="https://cdn.simpleicons.org/vitest?color=white" width="40" height="40" /><img src="https://cdn.simpleicons.org/eslint?color=white" width="40" height="40" /><img src="https://cdn.simpleicons.org/pnpm?color=white" width="40" height="40" /><img src="https://cdn.simpleicons.org/githubactions?color=white" width="40" height="40" /><img src="https://cdn.simpleicons.org/githubpages?color=white" width="40" height="40" />
 
 ## 프로젝트
 | 번호 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프&#8288;로&#8288;젝&#8288;트&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 내용 | 기술 | 확인 |
