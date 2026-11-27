@@ -5,13 +5,7 @@
 - **웹 접근성**: [한국형 웹 콘텐츠 접근성 지침(KWCAG) 2.2](https://github.io) 
 
 ## 기술 스택
-- **언어:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- **프레임워크:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-- **테스트:** ![Vitest](https://img.shields.io/badge/Vitest-99425B?style=for-the-badge&logo=vitest&logoColor=white)
-- **스타일:** ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-- **라이브러리:** ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-- **도구:** ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-- **배포:** ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<img src="https://cdn.simpleicons.org/typescript" width="40" height="40" /><img src="https://cdn.simpleicons.org/react" width="40" height="40" /><img src="https://cdn.simpleicons.org/vite" width="40" height="40" /><img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" /><img src="https://cdn.simpleicons.org/reactquery" width="40" height="40" /><img src="https://cdn.simpleicons.org/vitest" width="40" height="40" /><img src="https://cdn.simpleicons.org/eslint" width="40" height="40" /><img src="https://cdn.simpleicons.org/pnpm" width="40" height="40" /><img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" />
 
 ## 프로젝트
 | 번호 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프&#8288;로&#8288;젝&#8288;트&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 내용 | 기술 | 확인 |
