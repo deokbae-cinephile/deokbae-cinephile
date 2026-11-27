@@ -5,23 +5,16 @@
 - **웹 접근성**: [한국형 웹 콘텐츠 접근성 지침(KWCAG) 2.2](https://github.io) 
 
 ## 기술 스택
-- **언어:**
-  <img src="https://simpleicons.org/icons/TypeScript.svg" width="24" height="24" alt="TypeScript" /> TypeScript
-- **프레임워크:**
-  <img src="https://simpleicons.org/icons/React.svg" width="24" height="24" alt="React" /> React
-  <img src="https://simpleicons.org/icons/Vite.svg" width="24" height="24" alt="Vite" /> Vite
-- **테스트:**
-  <img src="https://simpleicons.org/icons/Vitest.svg" width="24" height="24" alt="Vitest" /> Vitest
-- **스타일:**
-  <img src="https://simpleicons.org/icons/TailwindCSS.svg" width="24" height="24" alt="Tailwind CSS" /> Tailwind CSS
-- **라이브러리:**
-  <img src="https://simpleicons.org/icons/ReactQuery.svg" width="24" height="24" alt="TanStack Query" /> TanStack Query
-- **도구:**
-  <img src="https://simpleicons.org/icons/ESLint.svg" width="24" height="24" alt="ESLint" /> ESLint
-  <img src="https://simpleicons.org/icons/Pnpm.svg" width="24" height="24" alt="pnpm" /> pnpm
-- **배포:**
-  <img src="https://simpleicons.org/icons/GitHubActions.svg" width="24" height="24" alt="GitHub Actions" /> GitHub Actions
-  <img src="https://simpleicons.org/icons/GitHubPages.svg" width="24" height="24" alt="GitHub Pages" /> GitHub Pages
+<img src="https://simpleicons.org/icons/TypeScript.svg" width="24" height="24" alt="TypeScript" /> TypeScript
+<img src="https://simpleicons.org/icons/React.svg" width="24" height="24" alt="React" /> React
+<img src="https://simpleicons.org/icons/Vite.svg" width="24" height="24" alt="Vite" /> Vite
+<img src="https://simpleicons.org/icons/TailwindCSS.svg" width="24" height="24" alt="Tailwind CSS" /> Tailwind CSS
+<img src="https://simpleicons.org/icons/ReactQuery.svg" width="24" height="24" alt="TanStack Query" /> TanStack Query
+<img src="https://simpleicons.org/icons/Vitest.svg" width="24" height="24" alt="Vitest" /> Vitest
+<img src="https://simpleicons.org/icons/ESLint.svg" width="24" height="24" alt="ESLint" /> ESLint
+<img src="https://simpleicons.org/icons/Pnpm.svg" width="24" height="24" alt="pnpm" /> pnpm
+<img src="https://simpleicons.org/icons/GitHubActions.svg" width="24" height="24" alt="GitHub Actions" /> GitHub Actions
+<img src="https://simpleicons.org/icons/GitHubPages.svg" width="24" height="24" alt="GitHub Pages" /> GitHub Pages
 
 ## 프로젝트
 | 번호 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프&#8288;로&#8288;젝&#8288;트&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 내용 | 기술 | 확인 |
