@@ -14,4 +14,4 @@
 ## 프로젝트
 | 번호 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프&#8288;로&#8288;젝&#8288;트&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 내용 | 기술 | 확인 |
 |---|---|---|---|---|
-| 1 | [fresh-table](https://github.com/deokbae-cinephile/fresh-table) | 신선한 수산물과 농작물 구독 및 판매 전문 서비스 | Next.js, TypeScript, Tailwind CSS |  |
+| 1 | [fresh-table](https://github.com/deokbae-cinephile/fresh-table) | 신선한 수산물·농작물 구독·판매 전문 서비스 | Next.js, TypeScript, Tailwind CSS |  |
