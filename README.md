@@ -11,7 +11,7 @@
 - 프레임워크 및 라이브러리:&nbsp;<img src="https://cdn.simpleicons.org/react" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="40" height="40" align="absmiddle" />
 - 스타일링:&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/vanillaextract" width="40" height="40" align="absmiddle" />
 - 개발 환경 및 테스팅:&nbsp;<img src="https://cdn.simpleicons.org/eslint" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/prettier" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/pnpm" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/vitest" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/mockserviceworker" width="40" height="40" align="absmiddle" />
-- 배포 및 기타:&nbsp;<img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/githubpages/ffffff" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/pwa" width="40" height="40" align="absmiddle" />
+- 배포 및 기타:&nbsp;<img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/githubpages/ffffff" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/pwa" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/zod" width="40" height="40" align="absmiddle" />
 
 <br><br>
 
