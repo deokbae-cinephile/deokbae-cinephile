@@ -7,12 +7,12 @@
 <br><br>
 
 ## 기술 스택
-- 프로그래밍 언어: <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" /><img src="https://cdn.simpleicons.org/typescript" width="40" height="40" />
-- 프레임워크 및 라이브러리: <img src="https://cdn.simpleicons.org/react" width="40" height="40" /><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="40" height="40" />
-- 스타일링: <img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" /><img src="https://cdn.simpleicons.org/vanillaextract" width="40" height="40" />
-- 테스팅: <img src="https://cdn.simpleicons.org/vitest" width="40" height="40" />
-- 코드 품질 및 패키지 관리: <img src="https://cdn.simpleicons.org/eslint" width="40" height="40" /><img src="https://cdn.simpleicons.org/prettier" width="40" height="40" /><img src="https://cdn.simpleicons.org/pnpm" width="40" height="40" />
-- 기타: <img src="https://cdn.simpleicons.org/pwa" width="40" height="40" /><img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" /><img src="https://cdn.simpleicons.org/githubpages/ffffff" width="40" height="40" />
+- 프로그래밍 언어:&nbsp;<img src="https://cdn.simpleicons.org/javascript" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/typescript" width="40" height="40" align="absmiddle" />
+- 프레임워크 및 라이브러리:&nbsp;<img src="https://cdn.simpleicons.org/react" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="40" height="40" align="absmiddle" />
+- 스타일링:&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/vanillaextract" width="40" height="40" align="absmiddle" />
+- 테스팅:&nbsp;<img src="https://cdn.simpleicons.org/vitest" width="40" height="40" align="absmiddle" />
+- 코드 품질 및 패키지 관리:&nbsp;<img src="https://cdn.simpleicons.org/eslint" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/prettier" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/pnpm" width="40" height="40" align="absmiddle" />
+- 기타:&nbsp;<img src="https://cdn.simpleicons.org/pwa" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/githubpages/ffffff" width="40" height="40" align="absmiddle" />
 
 <br><br>
 
