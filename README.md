@@ -1,19 +1,13 @@
-## 개발 기준
-- **HTML**: [HTML Living Standard](https://whatwg.org)
-- **CSS**: [CSS Snapshot 2026](https://w3.org)
-- **JavaScript**: [ECMA-262](https://ecma-international.org)
-- **웹 접근성**: [한국형 웹 콘텐츠 접근성 지침(KWCAG) 2.2](https://github.io)
-
-<br><br>
-
 ## 기술 스택
-- 프로그래밍 언어:&nbsp;<img src="https://cdn.simpleicons.org/javascript" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/typescript" width="40" height="40" align="absmiddle" />
-- 프레임워크 및 라이브러리:&nbsp;<img src="https://cdn.simpleicons.org/react" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="40" height="40" align="absmiddle" />
-- 스타일링:&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/vanillaextract" width="40" height="40" align="absmiddle" />
-- 개발 환경 및 테스팅:&nbsp;<img src="https://cdn.simpleicons.org/eslint" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/prettier" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/pnpm" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/vitest" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/mockserviceworker" width="40" height="40" align="absmiddle" />
-- 배포 및 기타:&nbsp;<img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/githubpages/ffffff" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/pwa" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/zod" width="40" height="40" align="absmiddle" />
+|  | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|---|---|
+| 프로그래밍 언어 | <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/typescript" width="40" height="40" align="absmiddle" /> |
+| 프레임워크 및 라이브러리 | <img src="https://cdn.simpleicons.org/react" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="40" height="40" align="absmiddle" /> |
+| 스타일링 | <img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/vanillaextract" width="40" height="40" align="absmiddle" /> |
+| 개발 환경 및 테스팅 | <img src="https://cdn.simpleicons.org/eslint" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/prettier" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/pnpm" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/vitest" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/mockserviceworker" width="40" height="40" align="absmiddle" /> |
+| 배포 및 기타 | <img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/githubpages/ffffff" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/pwa" width="40" height="40" align="absmiddle" /><img src="https://cdn.simpleicons.org/zod" width="40" height="40" align="absmiddle" /> |
 
-<br><br>
+<br></br>
 
 ## 프로젝트
 | 번호 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프&#8288;로&#8288;젝&#8288;트&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 내용 | 기술 | 확인 |
